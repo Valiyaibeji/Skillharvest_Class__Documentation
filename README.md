@@ -1,1 +1,1 @@
-# Skillharvest_class__Documentation
+# Skillharvest_Class__Documentation
